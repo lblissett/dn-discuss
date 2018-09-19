@@ -1,3 +1,5 @@
-# dn-discuss
+Please, look at the wiki before posting questions.
+https://github.com/lblissett/dn-discuss/wiki
 
-Johannes: und was soll ich hier jetzt machen?
+Also, look if there is not an issue already open with the topic of your concern.
+https://github.com/lblissett/dn-discuss/issues
